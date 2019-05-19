@@ -1,7 +1,6 @@
 package id.sch.smkn2cikbar.exambrowser;
 
 import android.app.AlertDialog;
-import android.app.KeyguardManager;
 import android.app.PendingIntent;
 import android.content.Context;
 import android.content.DialogInterface;
